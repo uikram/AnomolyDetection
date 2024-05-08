@@ -10,3 +10,8 @@ ct_plots/new_testing_labelled_ct.html
 ct_plots/testing_labelled_ct.html
 result/all_combined_EMA2324M11078.csv
 test_data.csv
+ct_plots_isolation_forest/EMA2227A10005_ct.html
+ct_plots_isolation_forest/EMA2233M10017_ct.html
+/ct_plots_isolation_forest
+*.csv
+*.html
